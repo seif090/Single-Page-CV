@@ -11,7 +11,7 @@ Customization
 Contributing
 License
 Demo
-View the live demo: Single Page CV (Replace with a deployed URL if available)
+View the live demo: Single Page CV https://seif090.github.io/Single-Page-CV/
 
 Features
 Clean, simple, and responsive design.
