@@ -66,6 +66,8 @@ Inline styles are used for quick edits. Update the style attributes for color, f
 Contributing
 Contributions are welcome! If you find any issues or have ideas for new features, feel free to fork the project and submit a pull request.
 
+https://roadmap.sh/projects/single-page-cv
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
